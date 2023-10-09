@@ -23,7 +23,6 @@ SuperFix Backend is the backend API server for the [SuperFix Android app](https:
 - User account management.
 - Shopping cart functionality.
 - Order management and history.
-- Secure and scalable design.
 
 ## Requirements
 
