@@ -1,4 +1,4 @@
-# Online Market Backend (Laravel)
+# SuperFix Backend
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,13 +13,13 @@
 
 ## Introduction
 
-This is the backend component of my Online Market application built using Laravel. It serves as the data and logic layer for my [Android frontend application](https://github.com/cgardesey/ServiceProductTrader). The backend provides RESTful APIs to manage products, user accounts, orders, and more.
+SuperFix Backend is the backend API server for the [SuperFix Android app](https://github.com/cgardesey/SuperFix), a platform for trading products and services. This Laravel-based backend provides essential functionalities for managing users, products, services, and transactions.
 
 ## Features
 
 - User authentication and authorization.
-- Product management (CRUD operations).
-- Service management (CRUD operations).  
+- Product management.
+- Service management.  
 - User account management.
 - Shopping cart functionality.
 - Order management and history.
@@ -97,7 +97,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 Please ensure that your code follows the project's coding standards and includes appropriate tests for any new functionality.
 
-If you're looking to integrate with an android frontend project, make sure to check out the repository corresponding to the [android project](https://github.com/cgardesey/ServiceProductTrader) for detailed instructions.
+If you're looking to integrate with an android frontend project, make sure to check out the repository corresponding to the [android project](https://github.com/cgardesey/SuperFix) for detailed instructions.
 ## License
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
 
