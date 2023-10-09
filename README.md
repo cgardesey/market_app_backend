@@ -39,11 +39,11 @@ To run this Laravel application, you'll need the following software installed on
 
 - Clone this repository to your local machine:
    ```shell
-   git git@github.com:cgardesey/market_app_backend.git
+   git git@github.com:cgardesey/superfix_backend.git
    
 - Change into the project directory:
    ```shell
-   cd market_app_backend
+   cd superfix_backend
 - Install the project dependencies using Composer:
    ```shell
    Composer install
